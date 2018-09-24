@@ -13,7 +13,7 @@ LGPL (c) A. Schiffler
 #include <stdlib.h>
 #include <string.h>
 
-#include "SDL_rotozoom.h"
+#include "SDL/SDL_rotozoom.h"
 
 /* ---- Internally used structures */
 
